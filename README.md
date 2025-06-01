@@ -246,7 +246,7 @@ hash-it "Password123" --algorithm ntlm --uppercase
 ### Exit Codes
 
 | Code | Meaning
-|-----|-----|-----|-----
+|-----|-----|
 | 0 | Success
 | 1 | Invalid input or options
 | 2 | File operation error
